@@ -2,7 +2,7 @@
 <p align="center">Data Scientist apasionado por transformar datos en insights.</p>
 
 <p align="center">
-  <img src="URL_DE_TU_FOTO" alt="Foto de perfil" width="200"/>
+  <img src="/avatar.jpeg" alt="Foto de perfil" width="200"/>
 </p>
 
 ---
